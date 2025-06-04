@@ -26,6 +26,7 @@ Este projeto permite controlar três LEDs individuais (amarelo, verde, vermelho)
     * Faça o upload do código para o seu ESP32.
 2.  **Descobrir o IP**:
     * Abra o Monitor Serial na Arduino IDE (baud rate 115200).
+    * Ou conecte no roteador para verificar o IP do ESP (Nome de usuário: admin, Senha: mundosenai)
     * Após o ESP32 conectar ao Wi-Fi, ele imprimirá o **endereço IP local** (Ex: `IP address: 192.168.1.X`). Anote este IP.
 3.  **Acessar a Interface**:
     * Em um dispositivo (computador, smartphone) conectado à **mesma rede Wi-Fi** que o ESP32, abra um navegador web.
